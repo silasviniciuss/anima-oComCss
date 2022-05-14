@@ -13,7 +13,7 @@
 }
 
 @keyframes animacao3{
-    from{left: 0;}
+    from{left: 0px;}
     to{left: 1000px; background-color: green;}
 }
 
